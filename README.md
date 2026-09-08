@@ -1,4 +1,4 @@
-<h1 align="center">Game developer and also Full Stack Web  Developer 😍</h1>
+<h1 align="center">Game developer and also Full Stack Web Developer</h1>
 
 ###
 
